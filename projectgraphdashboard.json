@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "projectgraphdashboard",
+  "private_key_id": "2eef5abcdf16c0037b75ff1dfbda4ea9a508a5d6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZ1TLx1NbKyiZo\nJvuzvJEprnOX+u28p0vTfbV/OCvUc1VGoSMxPpQ0j4vNmzfKuWcmmndlLwpsKkga\n2iUEQqP4M/MUNDI3bwuL3jkkjT2xu51gmIeT4deZQb7FyV++rXRJx6CiXYRA6RQJ\neAq1aMq02Ki2qOal9u3THCDQGjA+LZmEDgH74sM1eZ9ij9REMw1EBIt2ziPJ7s00\ncW8WMd0TagsHLlKk943u/maOk67meAUihmhBAjkg4XizuVXPD9AL+DMhq6xLGsnd\nh2/gDe/Ygq+YydcZbzd3qDYFj+1mNLAiXeTGecMDc3JqHTBmmMOHSSOjhRtd8rCR\n786N3U63AgMBAAECggEAYLHadO3xUMBuTxJq7ayZVYLKbh7llDZBGwb0352sGxj9\nNCaITC5GtJQ5z1GE8Rje2Ix9zm0Ut9IHAuBtyRfZ2G4bC49l8SR6YCKLhBWsWq55\nHC1pFXSNc0rzZ7HNrgMqGSwjup8/e17bVZ6zRjbXsHJyZe7Qv8A+btVQHYBahOaA\nF7ucJCoGHc0ZBgUFa8xWHJsXOVefsr98PerXcpwrXv2A6XDXw0dW5cK5Ts5bwVs8\n6QIH1SxdYWchLX5mZkSL1s2F6Bzw33V00oVgche5ytKeGngS+CaM+PpS6TnpsWfK\nV78yfn8AovSx7noAzE4MbQZS8X8p0iW/4/097oxG2QKBgQD3wgdISrkweT8rWDxo\nv2doyncevqxw4zZAoR7EWB5CgmgPuAUlKyeZ1VnM/uQHJOc/H8ntqQb95HEzXzC6\nOa9mPu8mWmBPLr1DLkRx+6OYFcdiJWVTb76XEmYokcy7UP6inhR/J4puifn/FblW\ntWQlp/agvzGvjhEL9AYQuOAOWQKBgQDhFFIGyy14EsbvZ2xVMxddoMIdd/pWPYHs\noFrO2BwdBbrL39CBI5l9aESvgx04qS+IecxgjZ9Ldwp3CPAluvzOoo9Q1KmkBmlJ\n+9Bg+D6JzymFXTKrE0UgeOfI8xWRK8GlhkeOQJePNHM5wnw0sn79oaEDyNIyhuCi\nlz3a9hRDjwKBgH5bZntoIKqoK59fkO+bLpIzMC1t8WRhfPnZMmfQyR4ChDAAGh+q\nsreyJ+p01LcQCyAWhlW/LuGt8E3S7ncLlHkA/9b/oL7Bh6ULo7y+KeEWumlDyTmU\ndA94QsHOGiwuUq99D9cJw4A8vlNqMOwX9st9rjqtSBnQysDd43oDz8GBAoGAPoNA\nTPa9SC4e5nsZEYjBIpX1k+2wr6choLDgx7YqCL2ApgMhi9xxUu1UtlJ6GTSUKRl6\n9A4hgfosA+eNm00VzeZEW7TU8ON+9rdjpqsL44aQB6Rc4DrX5i7uYVdyVAGNJQXo\ndc/myDVPE2m6yYAR2Su85qouBy6C0WWkHl5ePm0CgYEAoUhUTp/uJjtXDCpe2dsp\nl02NR+JKdl/f5U6bap7/1VC0G57F8lvdYyn/kW6i1tava0Cqgit5Xxi9nddlCijZ\n+RYlJgaHOnjfI2vWEXOe3MdLNHAGCaS7I3b7uWhzBfIgt8dP7DO87srxlpc+FXJw\n28zuFSmDURa2bluaSUohhuY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "project-graph-dashboard@projectgraphdashboard.iam.gserviceaccount.com",
+  "client_id": "113962704220453944755",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/project-graph-dashboard%40projectgraphdashboard.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
