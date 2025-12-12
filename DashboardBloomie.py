@@ -11,7 +11,7 @@ from tenacity import retry, stop_after_attempt, wait_fixed
 today = datetime.today() - timedelta(days=1)
 today = today.strftime('%Y%m%d')
 
-df = pd.read_csv(rf'S:\MovingItemsBloomie\MovingItemsBloomie{today}.csv', sep=';', encoding='utf-16', skiprows=[0,2])
+df = pd.read_csv(rf'MovingItemsBloomie20251009.csv', sep=';', encoding='utf-16', skiprows=[0,2])
 
 # Define the full set of months you expect
 all_months = list(range(1, 13))  # months 1 to 12
