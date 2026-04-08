@@ -232,7 +232,7 @@ result_data = [result.columns.tolist()] + result.values.tolist()
 # ============================================================
 # GOOGLE SHEETS
 # ============================================================
-SERVICE_ACCOUNT_FILE = r'api2.json'
+SERVICE_ACCOUNT_FILE = r'projectgraphdashboard.json'
 SCOPES = [
     'https://www.googleapis.com/auth/drive',
     'https://www.googleapis.com/auth/spreadsheets'
@@ -242,7 +242,7 @@ credentials = service_account.Credentials.from_service_account_file(
     SERVICE_ACCOUNT_FILE, scopes=SCOPES
 )
 
-SPREADSHEET = "1vnrGdCGJ-DJNHJoLaPyLxwe7wS2gW9aj42BFVWL8RCk"
+SPREADSHEET = "165G6N5_DRpe55fo0pYvYvmYLepynV_nmZ2ZgQhQHbl0"
 
 @retry(stop=stop_after_attempt(3), wait=wait_fixed(2))
 def update_sheet(spreadsheet_id, range_name, data):
